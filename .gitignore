@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#Vscode
+.vscode
+
+#custom
+bert-fine-tuned
+balanced_train_dataset
