@@ -176,3 +176,8 @@ cython_debug/
 #custom
 bert-fine-tuned
 balanced_train_dataset
+# some raw logs
+.0
+data
+models
+results
